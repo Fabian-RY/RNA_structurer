@@ -1,0 +1,12 @@
+SQref aaucguaaauauucccucacuggguuuccuccugguagacgaaauaugauaggg
+SQstr ...((....((..(((.....)))...((....))))..))...(((.)))...
+SQv01 aaucguaaauaaucccucacuggguaaccuccugguagacgaaauaugauaggg
+SQv02 -----uaaauauucccucacuggguuuccuccugguagacgaaauaugauaggg
+SQv03 aaucguaaauauucccucacuggguuuccuccugguagacgaaauaug------
+SQv04 aaucguaaauauucccucac-----uuccucc---uagacgaaauaugauaggg
+SQv05 aaucguaa--aaucccucucuggguaaccuccuggu---cgaaauaugauaggg
+SQv06 aaugguaaauauucccucucuggguguccuccugguagacguuauaugauaggg
+SQv07 aaucguaaauauucccucacuggguuuccuccugguagacgaaauaugauaccg
+SQv08 aaucguaaau----ccucacuggg---ccuccugguagacgaaauaggauaggg
+SQv09 -------------cccucacugg----ccuccugg------------gauaggg
+SQv10 aaucguaaauauucccucucuggguuuccuccugguagacgaaauaugauaggg

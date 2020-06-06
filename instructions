@@ -1,0 +1,12 @@
+Files included
+
+## Software
+RNA_structurer-Fabian_Robledo.pl -> The proper perl script
+VARNAv3-93.jar -> Auxiliary software to generate the images on .png format
+
+## Files
+report_fabian_robledo -> .md and .pdf -> The report itself in both formats
+rna.txt -> input text example
+rna_structures.txt -> output text examplo
+structure_images -> folder where images are saved
+
